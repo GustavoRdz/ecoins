@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import './assets/tailwind.css'
-import Chartkick from 'chartkick'
+import Chartkick from 'vue-chartkick'
 import Chart from "chart.js"
 import { VueSpinners } from '@saeris/vue-spinners'
 
