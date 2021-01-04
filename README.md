@@ -1,4 +1,5 @@
 # platzi-exchange
+You can see it at: https://quizzical-knuth-82b592.netlify.app/
 
 ## Project setup
 ```
